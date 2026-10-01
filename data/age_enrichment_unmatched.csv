@@ -1,0 +1,259 @@
+season,table,player_name,player_id,team
+2021-22,player_game_master.parquet,James Wiseman,-275139231043256,GSW
+2021-22,player_game_master.parquet,Chris Smith,-259435360752707,DET
+2021-22,player_game_master.parquet,Kawhi Leonard,-257233794239729,LAC
+2021-22,player_game_master.parquet,Aric Holman,-253141988658738,MIA
+2021-22,player_game_master.parquet,CJ Miles,-225015272632723,BOS
+2021-22,player_game_master.parquet,Malik Ellison,-212143653630437,ATL
+2021-22,player_game_master.parquet,Dj Stewart,-205453506513521,SAS
+2021-22,player_game_master.parquet,Jaime Echenique,-202452388266882,WAS
+2021-22,player_game_master.parquet,Dario Saric,-198057804694814,PHX
+2021-22,player_game_master.parquet,Jamal Murray,-189918293990185,DEN
+2021-22,player_game_master.parquet,Luka Samanic,-189392509163668,NYK
+2021-22,player_game_master.parquet,Ersan Ilyasova,-180396637671671,CHI
+2021-22,player_game_master.parquet,E Twaun Moore,-179200966218175,ORL
+2021-22,player_game_master.parquet,Grant Riller,-179094008354453,PHI
+2021-22,player_game_master.parquet,OG Anunoby,-177601150990930,TOR
+2021-22,player_game_master.parquet,Javin DeLaurier,-171056601074796,MIL
+2021-22,player_game_master.parquet,Tyler Hall,-167701972724045,NYK
+2021-22,player_game_master.parquet,Sam Dekker,-163385487823646,TOR
+2021-22,player_game_master.parquet,Jonathan Isaac,-161304397363949,ORL
+2021-22,player_game_master.parquet,T J Warren,-136191037922531,IND
+2021-22,player_game_master.parquet,Daulton Hommes,-124926542070976,NOP
+2021-22,player_game_master.parquet,KJ Martin,-120263815656992,HOU
+2021-22,player_game_master.parquet,DeJon Jarreau,-115486148209370,IND
+2021-22,player_game_master.parquet,DeJon Jarreau,-115486148209370,HOU
+2021-22,player_game_master.parquet,Ben Simmons,-101392590077832,PHI
+2021-22,player_game_master.parquet,Ben Simmons,-101392590077832,BKN
+2021-22,player_game_master.parquet,Scottie Lewis,-97642489874971,CHA
+2021-22,player_game_master.parquet,Mario Chalmers,-96782624394113,MIA
+2021-22,player_game_master.parquet,Jason Preston,-91973033465074,LAC
+2021-22,player_game_master.parquet,Ade Murkey,-89601688888622,SAC
+2021-22,player_game_master.parquet,Jordan Bell,-75006682730394,CHI
+2021-22,player_game_master.parquet,Luca Vildoza,-71199009318394,MIL
+2021-22,player_game_master.parquet,Zion Williamson,-70723445172696,NOP
+2021-22,player_game_master.parquet,Chris Clemons,-69598157821366,ATL
+2021-22,player_game_master.parquet,Kendrick Nunn,-64577710975110,LAL
+2021-22,player_game_master.parquet,PJ Dozier,-42466076950203,DEN
+2021-22,player_game_master.parquet,Michael Carter Williams,-35810438938604,ORL
+2021-22,player_game_master.parquet,Justin Tillman,-22899136124717,ATL
+2021-22,injury_episodes.parquet,James Wiseman,-275139231043256,GSW
+2021-22,injury_episodes.parquet,Chris Smith,-259435360752707,DET
+2021-22,injury_episodes.parquet,Kawhi Leonard,-257233794239729,LAC
+2021-22,injury_episodes.parquet,Dario Saric,-198057804694814,PHX
+2021-22,injury_episodes.parquet,Jamal Murray,-189918293990185,DEN
+2021-22,injury_episodes.parquet,E Twaun Moore,-179200966218175,ORL
+2021-22,injury_episodes.parquet,Grant Riller,-179094008354453,PHI
+2021-22,injury_episodes.parquet,OG Anunoby,-177601150990930,TOR
+2021-22,injury_episodes.parquet,Jonathan Isaac,-161304397363949,ORL
+2021-22,injury_episodes.parquet,T J Warren,-136191037922531,IND
+2021-22,injury_episodes.parquet,Daulton Hommes,-124926542070976,NOP
+2021-22,injury_episodes.parquet,Ben Simmons,-101392590077832,BKN
+2021-22,injury_episodes.parquet,Jason Preston,-91973033465074,LAC
+2021-22,injury_episodes.parquet,Zion Williamson,-70723445172696,NOP
+2021-22,injury_episodes.parquet,Kendrick Nunn,-64577710975110,LAL
+2021-22,injury_episodes.parquet,Michael Carter Williams,-35810438938604,ORL
+2021-22,all_absence_episodes.parquet,James Wiseman,-275139231043256,GSW
+2021-22,all_absence_episodes.parquet,Chris Smith,-259435360752707,DET
+2021-22,all_absence_episodes.parquet,Kawhi Leonard,-257233794239729,LAC
+2021-22,all_absence_episodes.parquet,Aric Holman,-253141988658738,MIA
+2021-22,all_absence_episodes.parquet,CJ Miles,-225015272632723,BOS
+2021-22,all_absence_episodes.parquet,Malik Ellison,-212143653630437,ATL
+2021-22,all_absence_episodes.parquet,Dj Stewart,-205453506513521,SAS
+2021-22,all_absence_episodes.parquet,Jaime Echenique,-202452388266882,WAS
+2021-22,all_absence_episodes.parquet,Dario Saric,-198057804694814,PHX
+2021-22,all_absence_episodes.parquet,Jamal Murray,-189918293990185,DEN
+2021-22,all_absence_episodes.parquet,Luka Samanic,-189392509163668,NYK
+2021-22,all_absence_episodes.parquet,Ersan Ilyasova,-180396637671671,CHI
+2021-22,all_absence_episodes.parquet,E Twaun Moore,-179200966218175,ORL
+2021-22,all_absence_episodes.parquet,Grant Riller,-179094008354453,PHI
+2021-22,all_absence_episodes.parquet,OG Anunoby,-177601150990930,TOR
+2021-22,all_absence_episodes.parquet,Jonathan Isaac,-161304397363949,ORL
+2021-22,all_absence_episodes.parquet,T J Warren,-136191037922531,IND
+2021-22,all_absence_episodes.parquet,Daulton Hommes,-124926542070976,NOP
+2021-22,all_absence_episodes.parquet,DeJon Jarreau,-115486148209370,IND
+2021-22,all_absence_episodes.parquet,Ben Simmons,-101392590077832,PHI
+2021-22,all_absence_episodes.parquet,Scottie Lewis,-97642489874971,CHA
+2021-22,all_absence_episodes.parquet,Mario Chalmers,-96782624394113,MIA
+2021-22,all_absence_episodes.parquet,Jason Preston,-91973033465074,LAC
+2021-22,all_absence_episodes.parquet,Jordan Bell,-75006682730394,CHI
+2021-22,all_absence_episodes.parquet,Luca Vildoza,-71199009318394,MIL
+2021-22,all_absence_episodes.parquet,Zion Williamson,-70723445172696,NOP
+2021-22,all_absence_episodes.parquet,Chris Clemons,-69598157821366,ATL
+2021-22,all_absence_episodes.parquet,Kendrick Nunn,-64577710975110,LAL
+2021-22,all_absence_episodes.parquet,Michael Carter Williams,-35810438938604,ORL
+2021-22,all_absence_episodes.parquet,Justin Tillman,-22899136124717,ATL
+2021-22,rtp_episode_game_windows.parquet,OG Anunoby,-177601150990930,TOR
+2022-23,player_game_master.parquet,Tristan Thompson,-267542501872254,LAL
+2022-23,player_game_master.parquet,E J Liddell,-265544290314702,NOP
+2022-23,player_game_master.parquet,Collin Gillespie,-209757491304563,DEN
+2022-23,player_game_master.parquet,Justin Lewis,-186601606496340,CHI
+2022-23,player_game_master.parquet,OG Anunoby,-177601150990930,TOR
+2022-23,player_game_master.parquet,Danilo Gallinari,-160803508340908,BOS
+2022-23,player_game_master.parquet,A J Green,-139749711509813,MIL
+2022-23,player_game_master.parquet,Eric Paschall,-125265732389241,MIN
+2022-23,player_game_master.parquet,KJ Martin,-120263815656992,HOU
+2022-23,player_game_master.parquet,Alondes Williams,-106972739952025,BKN
+2022-23,player_game_master.parquet,Keaton Wallace,-75077353289827,LAC
+2022-23,player_game_master.parquet,Ibou Badji,-58197814929869,POR
+2022-23,player_game_master.parquet,Lonzo Ball,-52139932933822,CHI
+2022-23,player_game_master.parquet,Jeenathan Williams,-42218095152574,POR
+2022-23,player_game_master.parquet,Chet Holmgren,-41061672562733,OKC
+2022-23,player_game_master.parquet,Feron Hunt,-18175028410963,NYK
+2022-23,player_game_master.parquet,DaQuan Jeffries,-18057215755650,NYK
+2022-23,player_game_master.parquet,Kostas Antetokounmpo,-14905634314494,CHI
+2022-23,player_game_master.parquet,Michael Foster Jr.,-2473387353572,PHI
+2022-23,injury_episodes.parquet,E J Liddell,-265544290314702,NOP
+2022-23,injury_episodes.parquet,Collin Gillespie,-209757491304563,DEN
+2022-23,injury_episodes.parquet,Justin Lewis,-186601606496340,CHI
+2022-23,injury_episodes.parquet,Danilo Gallinari,-160803508340908,BOS
+2022-23,injury_episodes.parquet,A J Green,-139749711509813,MIL
+2022-23,injury_episodes.parquet,Alondes Williams,-106972739952025,BKN
+2022-23,injury_episodes.parquet,Ibou Badji,-58197814929869,POR
+2022-23,injury_episodes.parquet,Lonzo Ball,-52139932933822,CHI
+2022-23,injury_episodes.parquet,Chet Holmgren,-41061672562733,OKC
+2022-23,injury_episodes.parquet,DaQuan Jeffries,-18057215755650,NYK
+2022-23,all_absence_episodes.parquet,E J Liddell,-265544290314702,NOP
+2022-23,all_absence_episodes.parquet,Collin Gillespie,-209757491304563,DEN
+2022-23,all_absence_episodes.parquet,Justin Lewis,-186601606496340,CHI
+2022-23,all_absence_episodes.parquet,Danilo Gallinari,-160803508340908,BOS
+2022-23,all_absence_episodes.parquet,A J Green,-139749711509813,MIL
+2022-23,all_absence_episodes.parquet,Eric Paschall,-125265732389241,MIN
+2022-23,all_absence_episodes.parquet,Alondes Williams,-106972739952025,BKN
+2022-23,all_absence_episodes.parquet,Keaton Wallace,-75077353289827,LAC
+2022-23,all_absence_episodes.parquet,Ibou Badji,-58197814929869,POR
+2022-23,all_absence_episodes.parquet,Lonzo Ball,-52139932933822,CHI
+2022-23,all_absence_episodes.parquet,Jeenathan Williams,-42218095152574,POR
+2022-23,all_absence_episodes.parquet,Chet Holmgren,-41061672562733,OKC
+2022-23,all_absence_episodes.parquet,Feron Hunt,-18175028410963,NYK
+2022-23,all_absence_episodes.parquet,DaQuan Jeffries,-18057215755650,NYK
+2022-23,all_absence_episodes.parquet,Kostas Antetokounmpo,-14905634314494,CHI
+2022-23,all_absence_episodes.parquet,Michael Foster Jr.,-2473387353572,PHI
+2022-23,rtp_episode_game_windows.parquet,Alondes Williams,-106972739952025,BKN
+2023-24,player_game_master.parquet,Miles Norris,-277526977717941,ATL
+2023-24,player_game_master.parquet,Vlatko Cancar,-275086076225541,DEN
+2023-24,player_game_master.parquet,Taevion Kinsey,-270452317988743,UTA
+2023-24,player_game_master.parquet,Victor Oladipo,-245313369231166,HOU
+2023-24,player_game_master.parquet,Victor Oladipo,-245313369231166,MEM
+2023-24,player_game_master.parquet,Malcolm Hill,-242252909973522,NOP
+2023-24,player_game_master.parquet,Ricky Rubio,-242210040763022,CLE
+2023-24,player_game_master.parquet,John Butler,-240670242513600,WAS
+2023-24,player_game_master.parquet,O G Anunoby,-237114939261881,TOR
+2023-24,player_game_master.parquet,Duane Washington,-231195164518293,NYK
+2023-24,player_game_master.parquet,Jaylen Martin,-208200071688826,NYK
+2023-24,player_game_master.parquet,Jaylen Martin,-208200071688826,BKN
+2023-24,player_game_master.parquet,Jaylen Martin,-208200071688826,TOR
+2023-24,player_game_master.parquet,Malcolm Cazalon,-203153845844927,DET
+2023-24,player_game_master.parquet,Edmond Sumner,-196125356477605,CHA
+2023-24,player_game_master.parquet,Damion Lee,-192353300661493,PHX
+2023-24,player_game_master.parquet,Justin Lewis,-186601606496340,CHI
+2023-24,player_game_master.parquet,Steven Adams,-173184940735664,MEM
+2023-24,player_game_master.parquet,Steven Adams,-173184940735664,HOU
+2023-24,player_game_master.parquet,Sharife Cooper,-163009537483432,CLE
+2023-24,player_game_master.parquet,Sir Jabari Rice,-159536666564153,SAS
+2023-24,player_game_master.parquet,Azuolas Tubelis,-150587210464856,PHI
+2023-24,player_game_master.parquet,Kai Jones,-118821851457046,PHI
+2023-24,player_game_master.parquet,Trevor Hudgins,-78735461600220,HOU
+2023-24,player_game_master.parquet,Jaylin Galloway,-71243158824037,MIL
+2023-24,player_game_master.parquet,Christian Koloko,-57378493182047,TOR
+2023-24,player_game_master.parquet,Jaylen Clark,-55044486270950,MIN
+2023-24,player_game_master.parquet,Lonzo Ball,-52139932933822,CHI
+2023-24,player_game_master.parquet,Nathan Knight,-46267646220469,BOS
+2023-24,player_game_master.parquet,Charles Bediako,-43514203173370,SAS
+2023-24,player_game_master.parquet,Josh Christopher,-27289181449699,UTA
+2023-24,player_game_master.parquet,Ron Harper Jr.,-24838685990547,TOR
+2023-24,player_game_master.parquet,Javonte Smart,-17891247045336,PHI
+2023-24,player_game_master.parquet,Jakob Poeltl,-4088682561089,TOR
+2023-24,injury_episodes.parquet,Vlatko Cancar,-275086076225541,DEN
+2023-24,injury_episodes.parquet,Victor Oladipo,-245313369231166,HOU
+2023-24,injury_episodes.parquet,Jaylen Martin,-208200071688826,TOR
+2023-24,injury_episodes.parquet,Damion Lee,-192353300661493,PHX
+2023-24,injury_episodes.parquet,Steven Adams,-173184940735664,MEM
+2023-24,injury_episodes.parquet,Steven Adams,-173184940735664,HOU
+2023-24,injury_episodes.parquet,Kai Jones,-118821851457046,PHI
+2023-24,injury_episodes.parquet,Jaylin Galloway,-71243158824037,MIL
+2023-24,injury_episodes.parquet,Jaylen Clark,-55044486270950,MIN
+2023-24,injury_episodes.parquet,Lonzo Ball,-52139932933822,CHI
+2023-24,injury_episodes.parquet,Jakob Poeltl,-4088682561089,TOR
+2023-24,all_absence_episodes.parquet,Miles Norris,-277526977717941,ATL
+2023-24,all_absence_episodes.parquet,Vlatko Cancar,-275086076225541,DEN
+2023-24,all_absence_episodes.parquet,Taevion Kinsey,-270452317988743,UTA
+2023-24,all_absence_episodes.parquet,Victor Oladipo,-245313369231166,HOU
+2023-24,all_absence_episodes.parquet,Malcolm Hill,-242252909973522,NOP
+2023-24,all_absence_episodes.parquet,Ricky Rubio,-242210040763022,CLE
+2023-24,all_absence_episodes.parquet,John Butler,-240670242513600,WAS
+2023-24,all_absence_episodes.parquet,O G Anunoby,-237114939261881,TOR
+2023-24,all_absence_episodes.parquet,Duane Washington,-231195164518293,NYK
+2023-24,all_absence_episodes.parquet,Jaylen Martin,-208200071688826,NYK
+2023-24,all_absence_episodes.parquet,Malcolm Cazalon,-203153845844927,DET
+2023-24,all_absence_episodes.parquet,Edmond Sumner,-196125356477605,CHA
+2023-24,all_absence_episodes.parquet,Damion Lee,-192353300661493,PHX
+2023-24,all_absence_episodes.parquet,Justin Lewis,-186601606496340,CHI
+2023-24,all_absence_episodes.parquet,Steven Adams,-173184940735664,MEM
+2023-24,all_absence_episodes.parquet,Sharife Cooper,-163009537483432,CLE
+2023-24,all_absence_episodes.parquet,Sir Jabari Rice,-159536666564153,SAS
+2023-24,all_absence_episodes.parquet,Azuolas Tubelis,-150587210464856,PHI
+2023-24,all_absence_episodes.parquet,Kai Jones,-118821851457046,PHI
+2023-24,all_absence_episodes.parquet,Trevor Hudgins,-78735461600220,HOU
+2023-24,all_absence_episodes.parquet,Jaylin Galloway,-71243158824037,MIL
+2023-24,all_absence_episodes.parquet,Christian Koloko,-57378493182047,TOR
+2023-24,all_absence_episodes.parquet,Jaylen Clark,-55044486270950,MIN
+2023-24,all_absence_episodes.parquet,Lonzo Ball,-52139932933822,CHI
+2023-24,all_absence_episodes.parquet,Nathan Knight,-46267646220469,BOS
+2023-24,all_absence_episodes.parquet,Charles Bediako,-43514203173370,SAS
+2023-24,all_absence_episodes.parquet,Josh Christopher,-27289181449699,UTA
+2023-24,all_absence_episodes.parquet,Ron Harper Jr.,-24838685990547,TOR
+2023-24,all_absence_episodes.parquet,Javonte Smart,-17891247045336,PHI
+2023-24,all_absence_episodes.parquet,Jakob Poeltl,-4088682561089,TOR
+2023-24,rtp_episode_game_windows.parquet,Jakob Poeltl,-4088682561089,TOR
+2024-25,player_game_master.parquet,Nikola Topic,-264497420168075,OKC
+2024-25,player_game_master.parquet,David Jones Garcia,-256013253026237,UTA
+2024-25,player_game_master.parquet,Kendall Brown,-224245772402966,BKN
+2024-25,player_game_master.parquet,Bojan Bogdanovic,-195472107720987,BKN
+2024-25,player_game_master.parquet,David Jones,-178317601136672,UTA
+2024-25,player_game_master.parquet,Seth Lundy,-163397717729596,ATL
+2024-25,player_game_master.parquet,Seth Lundy,-163397717729596,LAC
+2024-25,player_game_master.parquet,Dj Steward,-95933082437182,CHI
+2024-25,player_game_master.parquet,Cody Zeller,-79047891139433,ATL
+2024-25,player_game_master.parquet,Cody Zeller,-79047891139433,HOU
+2024-25,player_game_master.parquet,Saddiq Bey,-71898024671975,WAS
+2024-25,player_game_master.parquet,Jalen Crutcher,-58450729376614,NOP
+2024-25,player_game_master.parquet,Daron Holmes,-27627126482342,DEN
+2024-25,player_game_master.parquet,Jahlil Okafor,1626143,IND
+2024-25,player_game_master.parquet,Christian Wood,1626174,LAL
+2024-25,player_game_master.parquet,Jalen McDaniels,1629667,WAS
+2024-25,player_game_master.parquet,Kevon Harris,1630284,ATL
+2024-25,player_game_master.parquet,Jason Preston,1630554,UTA
+2024-25,player_game_master.parquet,Eugene Omoruyi,1630647,TOR
+2024-25,player_game_master.parquet,Ethan Thompson,1630679,ORL
+2024-25,player_game_master.parquet,Erik Stevenson,1641907,WAS
+2024-25,player_game_master.parquet,Taran Armstrong,1642379,GSW
+2024-25,player_game_master.parquet,Jesse Edwards,1642399,MIN
+2024-25,player_game_master.parquet,Boo Buie III,1642486,NYK
+2024-25,injury_episodes.parquet,Nikola Topic,-264497420168075,OKC
+2024-25,injury_episodes.parquet,Bojan Bogdanovic,-195472107720987,BKN
+2024-25,injury_episodes.parquet,Seth Lundy,-163397717729596,ATL
+2024-25,injury_episodes.parquet,Saddiq Bey,-71898024671975,WAS
+2024-25,injury_episodes.parquet,Daron Holmes,-27627126482342,DEN
+2024-25,injury_episodes.parquet,Christian Wood,1626174,LAL
+2024-25,all_absence_episodes.parquet,Nikola Topic,-264497420168075,OKC
+2024-25,all_absence_episodes.parquet,David Jones Garcia,-256013253026237,UTA
+2024-25,all_absence_episodes.parquet,Kendall Brown,-224245772402966,BKN
+2024-25,all_absence_episodes.parquet,Bojan Bogdanovic,-195472107720987,BKN
+2024-25,all_absence_episodes.parquet,David Jones,-178317601136672,UTA
+2024-25,all_absence_episodes.parquet,Seth Lundy,-163397717729596,ATL
+2024-25,all_absence_episodes.parquet,Dj Steward,-95933082437182,CHI
+2024-25,all_absence_episodes.parquet,Cody Zeller,-79047891139433,ATL
+2024-25,all_absence_episodes.parquet,Saddiq Bey,-71898024671975,WAS
+2024-25,all_absence_episodes.parquet,Jalen Crutcher,-58450729376614,NOP
+2024-25,all_absence_episodes.parquet,Daron Holmes,-27627126482342,DEN
+2024-25,all_absence_episodes.parquet,Jahlil Okafor,1626143,IND
+2024-25,all_absence_episodes.parquet,Christian Wood,1626174,LAL
+2024-25,all_absence_episodes.parquet,Kevon Harris,1630284,ATL
+2024-25,all_absence_episodes.parquet,Jason Preston,1630554,UTA
+2024-25,all_absence_episodes.parquet,Eugene Omoruyi,1630647,TOR
+2024-25,all_absence_episodes.parquet,Ethan Thompson,1630679,ORL
+2024-25,all_absence_episodes.parquet,Erik Stevenson,1641907,WAS
+2024-25,all_absence_episodes.parquet,Taran Armstrong,1642379,GSW
+2024-25,all_absence_episodes.parquet,Jesse Edwards,1642399,MIN
+2024-25,all_absence_episodes.parquet,Boo Buie III,1642486,NYK

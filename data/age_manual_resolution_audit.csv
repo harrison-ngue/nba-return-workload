@@ -1,0 +1,3 @@
+season,player_key,season_age,birthdate,source,source_url,note,rows_filled
+2021-22,og anunoby,24.0,1997-07-17,NBA.com player profile,https://www.nba.com/player/1628384/og-anunoby/profile,Not matched in season-level player metadata; authoritative NBA.com fallback.,165
+2023-24,jakob poeltl,28.0,1995-10-15,NBA.com player profile,https://www.nba.com/player/1627751/jakob-p%C3%B6ltl/profile,Not matched in season-level player metadata; authoritative NBA.com fallback.,116

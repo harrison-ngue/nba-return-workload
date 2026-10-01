@@ -1,0 +1,7 @@
+outcome,exposure,n,estimate,ci_low,ci_high,p_value,fdr_q
+points36,5-game Return Workload +10,990,0.003,-0.186,0.191,0.979,0.979
+assists36,5-game Return Workload +10,990,0.049,-0.013,0.11,0.12,0.216
+rebounds36,5-game Return Workload +10,990,-0.069,-0.154,0.016,0.109,0.216
+true_shooting,5-game Return Workload +10,990,0.002,-0.002,0.007,0.337,0.405
+plusminus36,5-game Return Workload +10,990,-0.038,-0.413,0.336,0.841,0.891
+minutes_per_game,5-game Return Workload +10,990,1.597,1.348,1.845,1e-06,1e-06

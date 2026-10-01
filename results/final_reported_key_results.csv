@@ -1,0 +1,14 @@
+family,analysis,effect_scale,estimate,ci_low,ci_high,p_value,note
+Primary association,Three-played-game cumulative workload deficit,OR per +0.5 deficit,0.75,0.64,0.88,<.001,More conservative restoration -> lower subsequent injury-related absence
+Fine clinical adjustment,Fine body-part + diagnosis + games missed,OR per +0.5 deficit,0.75,0.64,0.88,<.001,Controls detailed injury type and severity
+Clinical cell adjustment,Body-part/diagnosis cells + games missed,OR per +0.5 deficit,0.73,0.63,0.86,<.001,Controls clinically similar injury cells
+Schedule-aware workload,3-game Return Workload,OR per +10 percentage points,1.16,1.08,1.26,<.001,Higher early competitive workload -> higher subsequent injury odds
+Schedule-aware workload,5-game Return Workload,OR per +10 percentage points,1.12,1.02,1.22,.013,Higher early competitive workload -> higher subsequent injury odds
+Ramp shape,Ramp Deviation adjusted for total workload,OR per +10 points,1.09,0.95,1.24,.212,No independent association after total workload adjustment
+Outcome specificity,Different-body second injury,OR per +0.5 deficit,0.74,0.61,0.89,.001,Association present for anatomically different subsequent injury
+Outcome specificity,Same-body recurrence proxy,OR per +0.5 deficit,0.91,0.74,1.13,,No clear association
+Outcome specificity,Exact same body/side/diagnosis recurrence,OR per +0.5 deficit,1.0,0.73,1.38,,No clear association
+Anatomical proximity,Different-body injury in same broad region,OR per +0.5 deficit,0.71,0.54,0.94,.016,Exploratory; FDR q=.032
+Within-player,Expanded conditional logistic model,OR per +0.5 deficit,0.67,0.52,0.85,.001,Compares multiple returns within the same player
+Survival,Continuous 5-game Return Workload,HR per +10 points,1.08,1.04,1.13,,90-day sensitivity
+Standardized risk,<80% vs >=80% early workload,Risk difference (percentage points),-18.3,-27.4,-9.3,,Illustrative contrast: 25.0% vs 43.3%; not a recommended threshold

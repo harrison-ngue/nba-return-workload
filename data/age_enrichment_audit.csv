@@ -1,0 +1,17 @@
+season,table,rows,age_nonmissing_before,age_nonmissing_after,age_coverage_after
+2021-22,player_game_master.parquet,38240,0,36799,0.9623169456066946
+2021-22,injury_episodes.parquet,586,0,563,0.9607508532423208
+2021-22,all_absence_episodes.parquet,1833,0,1798,0.9809056192034915
+2021-22,rtp_episode_game_windows.parquet,12363,0,12290,0.9940952843161045
+2022-23,player_game_master.parquet,36859,0,36081,0.9788925364225833
+2022-23,injury_episodes.parquet,616,0,606,0.9837662337662337
+2022-23,all_absence_episodes.parquet,1829,0,1811,0.9901585565882997
+2022-23,rtp_episode_game_windows.parquet,13511,0,13498,0.9990378210347125
+2023-24,player_game_master.parquet,38325,0,37379,0.9753163731245923
+2023-24,injury_episodes.parquet,633,0,616,0.9731437598736177
+2023-24,all_absence_episodes.parquet,1799,0,1767,0.9822123401889938
+2023-24,rtp_episode_game_windows.parquet,13293,0,13262,0.9976679455352441
+2024-25,player_game_master.parquet,45451,0,44736,0.9842687729642912
+2024-25,injury_episodes.parquet,754,745,745,0.9880636604774535
+2024-25,all_absence_episodes.parquet,4250,0,4228,0.9948235294117647
+2024-25,rtp_episode_game_windows.parquet,17264,0,17264,1.0
